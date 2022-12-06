@@ -19,9 +19,9 @@ body{
 
 img.left{
     width: 20%;
-    margin-left: 10%;
     float: left;
-    display: inline-block;
+    margin-left: 10%;
+    display: inline;
 }
 
 p.disclaimer{
