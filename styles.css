@@ -17,20 +17,64 @@ body{
     
 }
 
-p{
+img.left{
+    width: 20%;
+    margin-left: 10%;
+    float: left;
+    display: inline-block;
+}
+
+p.disclaimer{
+    bottom: 0%;
+    background: grey;
     text-align: center;
+    padding: 0%;
+    margin: 0px;
+    width: 100%;
+    left: 0%;
+    right: 0%;
+    font-size: 10px;
+
+}
+
+ul>li{
+    font-family: cursive;
+    margin-left: 30%;
+}
+
+p{
+    font-family: cursive;
+}
+
+p.center{
+    text-align: center;
+    font-family: cursive;
+    
 }
 h1{
     text-align: center;
+    font-family: cursive;
 }
 h3{
     text-align: center;
+    font-family: cursive;
 }
+
+h3.left{
+    text-align: left;
+    margin-left: 17%;
+}
+
+
 
 img{
     margin: auto;
+    display: inline-block;
     width: 30%;
     height: auto;
+}
+a{
+    text-align: center;
 }
 
 
